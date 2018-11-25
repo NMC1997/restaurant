@@ -1,7 +1,7 @@
 class ApplicationController < ActionController::Base
     #77777
     #88888
-     
+    #dfcsdvw
     #before_action :authenticate_user
      
     def authenticate_user
