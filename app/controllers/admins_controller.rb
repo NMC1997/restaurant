@@ -39,6 +39,8 @@ class AdminsController < ApplicationController
       end
     end
   end
+  
+  
 
   # PATCH/PUT /admins/1
   # PATCH/PUT /admins/1.json
